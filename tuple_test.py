@@ -14,3 +14,5 @@ item = (0, 1, 2)
 print(min(item))
 print(max(item))
 print(len(item))
+
+character = {1:'a', 2:'b', 3:'c'}
