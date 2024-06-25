@@ -25,4 +25,4 @@ print(inventory)
 inventory['apple']=10
 print(len(inventory))
 print(max(inventory))
-print(min(inventory))
+print(min(inventory))#키값이 가장 작은 것을 리턴
